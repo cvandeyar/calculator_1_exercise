@@ -42,4 +42,13 @@ def mod(num1, num2):
 
     return num1 % num2
 
+# study further section
+def add_mult(num1, num2, num3):
+    """add first two and multiply sum with third"""
 
+    return (num1 + num2) * num3
+
+def add_cubes(num1, num2):
+    """cube both numbers and sum them"""
+
+    return cube(num1) + cube(num2)
